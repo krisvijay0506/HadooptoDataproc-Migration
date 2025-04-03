@@ -1,6 +1,6 @@
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/f073fa7b-1d73-46d2-b162-2f97584774e3" />
 
-# Data proc is managed on demand service for apache hadoop and apache spark built for processing vast amounts of data with these tools but without the complexity of managing the infrastructure.We can quickly set up a hadoop cluster with dataproc to handle various data processing tasks from batch processing to real time analytics.Data proc integrates with other GCP services making it straight forward to build scalable and cost-effective data pipelines.We can focus on gaining insights from data rather than managing the cluster.So this stream lines workflows and supports data driven decisions
+#### Data proc is managed on demand service for apache hadoop and apache spark built for processing vast amounts of data with these tools but without the complexity of managing the infrastructure.We can quickly set up a hadoop cluster with dataproc to handle various data processing tasks from batch processing to real time analytics.Data proc integrates with other GCP services making it straight forward to build scalable and cost-effective data pipelines.We can focus on gaining insights from data rather than managing the cluster.So this stream lines workflows and supports data driven decisions
 
 
 <img width="538" alt="image" src="https://github.com/user-attachments/assets/b9606b5a-8c2f-4e05-bdcc-c937f6ca8999" />
